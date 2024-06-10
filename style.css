@@ -1,0 +1,202 @@
+
+
+.one{
+
+	background: #1de592;
+	width: 300px;
+	margin: 60px auto;
+	padding: 90px;
+	border-radius: 16px;
+}
+
+.one h1{
+
+	font-family: sans-serif;
+}
+
+.one p {
+
+	font-weight: bold;
+	font-family: serif;
+	font-size: 12px;
+}
+
+.one button{
+
+	height: 38px;
+	width: auto;
+	border: none;
+	border-radius: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+	text-align: center;
+	background: white;
+	font-weight: bolder;
+	cursor: pointer;
+	transition: 0.3s;
+}
+
+.one button:hover{
+
+	background: black;
+	color: white;
+}
+
+.two{
+
+	border: 1px solid lightgrey;
+	background: white;
+	width: 350px;
+	border-radius: 12px;
+	margin: 40px auto;
+	padding: 20px 60px;
+}
+
+.two h3{
+
+	font-family: "Roboto", sans-serif;
+}
+
+.two p{
+
+
+	color: #808080;
+	font-family: sans-serif;
+}
+
+.two img {
+
+	border-radius: 80%;
+	width: 60px;
+	padding: 30px;
+}
+
+.lines{
+
+	padding: 1px;
+	color: #4285F4;
+	transition: 0.3s;
+	cursor: pointer;
+}
+
+.twofooter{
+
+	border-top: 1px solid lightgrey;
+
+}
+
+.lines:hover{
+
+	text-decoration: underline;
+}
+
+.three{
+
+	width: 400px;
+	border: 1px solid lightgrey;
+	border-radius: 12px;
+	margin: 60px auto;
+}
+
+.three-img{
+
+	width: 100%;
+	border-radius: 12px 12px 0px 0px;
+
+
+}
+
+.inputs{
+
+	padding: 15px;
+	font-family: sans;
+
+}
+
+.three-img2{
+
+	display: inline-flex;
+}
+
+.threeimg2{
+
+	width: 50px;
+	height: 50px;
+	display: inline;
+	background-blend-mode: screen;
+}
+
+.three button{
+
+	border: 1px solid lightgrey;
+	background: white;
+	border-radius: 6px;
+	padding: 10px;
+	padding-left: 18px;
+	padding-right: 18px;
+	font-weight: bolder;
+	color: #4285F4;
+	font-family: sans-serif;
+	transition: 0.3s;
+	cursor: pointer;
+}
+
+.three button:hover{
+
+	background: #4285F4;
+	color: white;
+}
+
+.three h3{
+
+	font-family: "Open Sans", sans-serif;
+}
+
+.four{
+
+	width: 400px;
+	margin: 60px auto;
+	padding: 30px;
+}
+
+.four h1{
+
+	padding-left: 140px;
+}
+
+.four h4{
+
+	padding-left: 140px;
+}
+
+.four input{
+
+	width: 100%;
+	margin-bottom: 16px;
+	padding: 16px;
+	box-sizing: border-box;
+	border-radius: 16px;
+	border: 1px solid lightgrey;
+	font-size: 15px;
+}
+
+.four button{
+
+	padding: 15px;
+	padding-left: 35px;
+	padding-right: 35px;
+	border-radius: 50px;
+	border: none;
+	font-weight: bolder;
+	background: black;
+	color: white;
+	cursor: pointer;
+	transition: 0.3s;
+	margin-top: 20px;
+}
+
+.four button:hover{
+
+	background: white;
+	color: black;
+}
