@@ -58,7 +58,7 @@ body{
 
 	color: white;
 	background: royalblue;
-	width: 112px;
+	width: 120px;
 	padding: 0px 8px;
 	border-radius: 2px;
 	position: absolute;
@@ -74,14 +74,13 @@ body{
 .min{
 
 	background: #FAF9F6;
-	width: 40px;
-	padding: 1px 4px;
+	width: 50px;
+	padding: 0px 3px;
 	border-radius: 4px;
 	position: absolute;
 	right: 6px;
 	bottom: 0;
 }
-
 .promoted{
 
 	background: rgba(161, 150, 150, 0.19);
